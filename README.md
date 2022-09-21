@@ -16,7 +16,9 @@ this project has been deployed: &nbsp; &nbsp; https://music-sand-xi.vercel.app/ 
 6- create your own user with this command: \
 &nbsp; &nbsp; &nbsp; python manage.py createsuperuser \
 7- finally, this command: \
-&nbsp; &nbsp; &nbsp; python manage.py runserver \
+&nbsp; &nbsp; &nbsp; python manage.py runserver 8000 \
 \
-now you can go to the admin panel and create your objects: \
+you can see the project from the following address: \
+&nbsp; &nbsp; &nbsp; http://localhost:8000/ \
+you can go to the admin panel and create your objects: \
 &nbsp; &nbsp; &nbsp; http://localhost:8000/admin/
